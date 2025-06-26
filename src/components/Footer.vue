@@ -26,7 +26,7 @@ import { footerText } from "../constants";
                 </div>
             </div>
             <div class="footer__right">
-                © 2024 jsu<br />
+                © 2025 jsu<br />
                 이 사이트는 뷰를 이용하여 제작하였습니다.
             </div>
         </div>
